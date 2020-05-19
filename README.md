@@ -1,5 +1,3 @@
 # HackerRank
-Sample Programs
 
-
-My program list . 
+Programs might be lengthy but easy to understand for beginners. 
